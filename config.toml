@@ -1,0 +1,37 @@
+baseURL = "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/"
+title = "Workshop Title"
+theme = "hugo-theme-learn"
+
+defaultContentLanguage = "vi"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.vi]
+    languageName = "Tiếng Việt"
+    contentDir = "content/vi"
+    weight = 1
+    languageCode = "vi"
+    title = "Workshop Title"
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+    languageCode = "en"
+    title = "Workshop Title"
+
+[params]
+  description = "Workshop description"
+  author = "Your Name"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  themeVariant = "workshop"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
