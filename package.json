@@ -1,0 +1,38 @@
+{
+  "name": "aws-aip-c01-exam-guide",
+  "version": "1.0.0",
+  "description": "Bilingual study guide for AWS Certified Generative AI Developer - Professional (AIP-C01) with hands-on labs",
+  "keywords": [
+    "aws",
+    "certification",
+    "aip-c01",
+    "genai",
+    "bedrock",
+    "exam-guide",
+    "machine-learning",
+    "generative-ai",
+    "hugo",
+    "study-guide"
+  ],
+  "homepage": "https://github.com/ihatesea69/aws-aip-c01-exam-guide",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ihatesea69/aws-aip-c01-exam-guide.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run",
+    "build": "hugo --gc --minify",
+    "dev": "hugo server -D"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.0",
+    "fast-check": "^4.0.0",
+    "gray-matter": "^4.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

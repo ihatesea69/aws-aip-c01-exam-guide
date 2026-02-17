@@ -8,18 +8,15 @@ pre: "<b>1. </b>"
 
 ### Introduction
 
-# Workshop Overview
+# AIP-C01 Exam Overview
 
-Overview of the workshop, learning objectives, and the architecture to be built.
+The AWS Certified Generative AI Developer - Professional (AIP-C01) exam is intended for developers experienced in integrating Foundation Models (FMs) into applications and business workflows. This certification demonstrates practical knowledge of implementing GenAI solutions into production environments using AWS technologies.
 
-### Architecture
+### Learning Objectives
 
-![Architecture](/images/sample/architecture.png)
-
-### Objectives
-
-- Objective 1
-- Objective 2
-- Objective 3
+- Understand the scope and structure of the AIP-C01 exam
+- Master knowledge across all 5 Content Domains
+- Practice hands-on with Amazon Bedrock, Knowledge Bases, Guardrails
+- Build an effective exam preparation strategy
 
 {{% children %}}

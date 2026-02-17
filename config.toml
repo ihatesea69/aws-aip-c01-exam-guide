@@ -1,5 +1,5 @@
-baseURL = "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/"
-title = "Workshop Title"
+baseURL = "https://ihatesea69.github.io/aws-aip-c01-exam-guide/"
+title = "AWS Certified Generative AI Developer - Professional (AIP-C01)"
 theme = "hugo-theme-learn"
 
 defaultContentLanguage = "vi"
@@ -11,17 +11,17 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/vi"
     weight = 1
     languageCode = "vi"
-    title = "Workshop Title"
+    title = "AWS Certified Generative AI Developer - Professional (AIP-C01)"
   [languages.en]
     languageName = "English"
     contentDir = "content/en"
     weight = 2
     languageCode = "en"
-    title = "Workshop Title"
+    title = "AWS Certified Generative AI Developer - Professional (AIP-C01)"
 
 [params]
-  description = "Workshop description"
-  author = "Your Name"
+  description = "Comprehensive bilingual study guide and hands-on workshop for the AWS Certified Generative AI Developer - Professional (AIP-C01) certification exam. Covers all five content domains, practical labs with Amazon Bedrock, RAG pipelines, Guardrails, Agentic AI, and monitoring."
+  author = "AWS GenAI Developer Exam Guide Contributors"
   showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = false

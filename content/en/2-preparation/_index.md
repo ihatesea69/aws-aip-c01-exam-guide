@@ -10,6 +10,6 @@ pre: "<b>2. </b>"
 
 # Environment Setup
 
-In this section, we will prepare the necessary resources for the workshop.
+In this section, we will prepare the necessary resources for the hands-on labs in this workshop. You need an AWS Account and Amazon Bedrock model access enabled.
 
 {{% children %}}

@@ -8,18 +8,15 @@ pre: "<b>1. </b>"
 
 ### Giới thiệu
 
-# Tổng quan Workshop
+# Tổng quan kỳ thi AIP-C01
 
-Mô tả tổng quan về workshop, mục tiêu học tập, và kiến trúc sẽ xây dựng.
+Kỳ thi AWS Certified Generative AI Developer - Professional (AIP-C01) dành cho các developer có kinh nghiệm tích hợp Foundation Models (FMs) vào ứng dụng và quy trình kinh doanh. Chứng chỉ này chứng minh khả năng triển khai giải pháp GenAI vào môi trường production sử dụng công nghệ AWS.
 
-### Kiến trúc
+### Mục tiêu học tập
 
-![Architecture](/images/sample/architecture.png)
-
-### Mục tiêu
-
-- Mục tiêu 1
-- Mục tiêu 2
-- Mục tiêu 3
+- Hiểu rõ phạm vi và cấu trúc kỳ thi AIP-C01
+- Nắm vững kiến thức 5 Content Domains
+- Thực hành hands-on với Amazon Bedrock, Knowledge Bases, Guardrails
+- Xây dựng chiến lược ôn thi hiệu quả
 
 {{% children %}}
